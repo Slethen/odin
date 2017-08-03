@@ -31,8 +31,8 @@ with the latest stable version of Ghost 1.0.X
 I use this theme for my personal blog at [slethen.io](https://slethen.io).
 
 ## Installation
-To install this theme download it as a .zip then upload it to the Admin area.
-You can then activate it.
+To install this theme download the latest zip from the [releases](https://github.com/Slethen/odin-slethen/releases) page.
+Then simply upload it in the Admin Area and activate it.
 
 ## Configuration
 No need to configure ***Prism*** or ***RRSSB*** buttons.
