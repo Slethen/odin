@@ -7,12 +7,14 @@
 
     <div class="vertical">
         <div class="main-header-content inner">
-            {{#if @blog.logo}}
-            <div class="blog-logo">
-                <img src="{{@blog.logo}}" alt="{{@blog.title}}" />
-            </div>
-            {{/if}}
-            <h1 class="page-title">{{@blog.title}}</h1>
+            <h1 class="page-title">
+				{{#if @blog.logo}}
+	                <img src="{{@blog.logo}}" alt="{{@blog.title}}" />
+	            </div>
+				{{else}}
+				<h1 class="page-title">{{@blog.title}}</h1>
+	            {{/if}}
+			</h1>
             <h2 class="page-description">{{@blog.description}}</h2>
             {{navigation}}
             {{> "social_link"}}

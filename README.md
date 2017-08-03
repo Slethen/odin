@@ -20,7 +20,7 @@ but keeping all the good and minimalistic features of Casper.
 
 ### Features
 * Casper minimalistic and clean style (without right side menu)
-* Works with Ghost 1.0+
+* Works with Ghost 0.7+
 * Fully responsive (for mobiles and tablets)
 * Home Page Navigation Menu Buttons
 * Google Analytics (easily configurable by code injection in the admin area)
@@ -30,7 +30,7 @@ but keeping all the good and minimalistic features of Casper.
 * [Font Awesome](http://fontawesome.io) home page Social Link Icons (easily configurable by code injection in the admin area)
 
 ### Demo
-I've created and I use this theme for my personal blog at [slethen.io](https://slethen.io).
+I've created and I use this theme for my personal blog at [blog.h4t0n.com](https://blog.h4t0n.com).
 
 ## Installation
 Installation is the same as other themes, so clone or download the content of this repo inside your Ghost `content/themes/` folder.
