@@ -1,8 +1,8 @@
 # Odin-Slethen
 
 [![GitHub version](https://badge.fury.io/gh/Slethen%2Fodin-slethen.svg)](https://badge.fury.io/gh/Slethen%2Fodin-slethen)
-![Ghost version](https://img.shields.io/badge/Ghost-1.0.x-brightgreen.svg?style=flat-square)
-[![Donate](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/andreatarquini/5)
+![Ghost version](https://img.shields.io/badge/Ghost-1.0.x-brightgreen.svg)
+[![Donate](https://img.shields.io/badge/donate-paypal-003087.svg)](https://www.paypal.me/slethenio/5)
 
 > A simple theme for Ghost made for geeks, hackers and developers (forked from Casper).
 
