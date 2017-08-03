@@ -1,26 +1,23 @@
 # Odin
 
-![Ghost version](https://img.shields.io/badge/Ghost-0.7.x-brightgreen.svg?style=flat-square)
+![Ghost version](https://img.shields.io/badge/Ghost-1.0.x-brightgreen.svg?style=flat-square)
 [![Donate](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/andreatarquini/5)
 
 > A simple theme for Ghost made for geeks, hackers and developers (forked from Casper).
 
-[<img src="http://i.imgur.com/SjCzgwp.jpg">](https://blog.h4t0n.com)
+[<img src="http://i.imgur.com/lxpvkBo.jpg">](https://slethen.io)
 
-***Do you like my theme? Do you want new features?***  
-Great, we can discuss. Open an issue. Some :coffee::coffee::coffee::coffee: offered with [Paypal](https://www.paypal.me/andreatarquini/5) are appreciated.
+***Do you want new features?***  
+Feel free to open an issue
 
 ## Intro
-**Odin** is a very simple fork of the Ghost default theme [Casper](https://github.com/TryGhost/Casper).
-As you know, Casper doesn't have some nice features very useful for developers such as syntax
-highlight, comments and big social sharing features. So I created this theme to fill the gap
-but keeping all the good and minimalistic features of Casper.
-
-
+**Odin-Slethen** is a fork of the [Odin](https://github.com/h4t0n/odin) theme.
+I created this fork to change some things I didn't like about Odin and to add compatiblity
+with the latest stable version of Ghost 1.0.X
 
 ### Features
 * Casper minimalistic and clean style (without right side menu)
-* Works with Ghost 0.7+
+* Works with Ghost 1.0.X
 * Fully responsive (for mobiles and tablets)
 * Home Page Navigation Menu Buttons
 * Google Analytics (easily configurable by code injection in the admin area)
@@ -30,18 +27,11 @@ but keeping all the good and minimalistic features of Casper.
 * [Font Awesome](http://fontawesome.io) home page Social Link Icons (easily configurable by code injection in the admin area)
 
 ### Demo
-I've created and I use this theme for my personal blog at [blog.h4t0n.com](https://blog.h4t0n.com).
+I use this theme for my personal blog at [slethen.io](https://slethen.io).
 
 ## Installation
-Installation is the same as other themes, so clone or download the content of this repo inside your Ghost `content/themes/` folder.
-
-```
-# for example
-$ cd /your-ghost-root-directory
-$ git clone https://github.com/h4t0n/odin.git content/themes/odin
-```
-
-Restart Ghost and select Odin theme from your Admin Area.
+To install this theme download it as a .zip then upload it to the Admin area.
+You can then activate it.
 
 ## Configuration
 No need to configure ***Prism*** or ***RRSSB*** buttons.
@@ -93,5 +83,6 @@ var social_link = {
 ## Copyright & License
 
 Released under the MIT License.  
+Copyright (c) 2017 [Joel Duncan](https://slethen.io)  
 Copyright (c) 2016 [Andrea Tarquini](https://blog.h4t0n.com) aka [@h4ton](https://twitter.com/h4t0n)  
 Copyright (c) 2013-2015 Ghost Foundation (for Casper theme substantial portions of code)
