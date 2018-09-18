@@ -1,7 +1,7 @@
 # Odin-Slethen
 
 [![GitHub version](https://badge.fury.io/gh/Slethen%2Fodin-slethen.svg)](https://badge.fury.io/gh/Slethen%2Fodin-slethen)
-![Ghost version](https://img.shields.io/badge/Ghost-1.0.x-brightgreen.svg)
+![Ghost version](https://img.shields.io/badge/Ghost-2.x.x-brightgreen.svg)
 [![Donate](https://img.shields.io/badge/donate-paypal-003087.svg)](https://www.paypal.me/slethenio/5)
 
 > A simple theme for Ghost made for geeks, hackers and developers (forked from Casper).
@@ -14,11 +14,11 @@ Feel free to open an issue
 ## Intro
 **Odin-Slethen** is a fork of the [Odin](https://github.com/h4t0n/odin) theme.
 I created this fork to change some things I didn't like about Odin and to add compatiblity
-with the latest stable version of Ghost 1.0.X
+with the latest stable version of Ghost 2.X.X
 
 ### Features
 * Casper minimalistic and clean style (without right side menu)
-* Works with Ghost 1.0.X
+* Works with Ghost 2.X.X
 * Fully responsive (for mobiles and tablets)
 * Home Page Navigation Menu Buttons
 * Google Analytics (easily configurable by code injection in the admin area)
